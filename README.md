@@ -132,6 +132,6 @@ Read [LICENSE](LICENSE) for this branch’s terms. Permissions granted with earl
 
 ## Support my work
 
-If you enjoy my projects, you can leave a tip on Ko-fi. Support is always optional.
+If you enjoy my projects, you can support my work through Ko-fi or PayPal. Support is always optional.
 
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A3G129JCLF)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A3G129JCLF) [![Support via PayPal](https://img.shields.io/badge/Support%20via-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/7ZKG8YG6GCERC)
